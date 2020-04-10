@@ -175,7 +175,15 @@ h1, h2, h3, h4, h5, h6 {
 #intro h2 {
   color: #fff;
   margin-bottom: 30px;
-  font-size: 48px;
+  font-size: 38px;
+  font-weight: 700;
+}
+
+
+#intro h3 {
+  color: #fff;
+  margin-bottom: 30px;
+  font-size: 26px;
   font-weight: 700;
 }
 
@@ -1455,3 +1463,26 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
+
+
+#right-footer {
+  flex: 2;
+  padding: 8px;
+  text-align: center;
+}
+
+ right-footer #social-media-footer a .fa-facebook,
+right-footer #social-media-footer a .fa-instagram,
+right-footer #social-media-footer a .fa-github {
+  color: white;
+  transition: 0.4s;
+  
+}
+
+#social-media-footer ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  padding: 0;
+}
+
