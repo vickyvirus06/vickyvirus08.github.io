@@ -2956,7 +2956,7 @@ label.radio {
 	  text-align: center;
 	}
 	.logo a {
-	  background: url(../images/1.png) no-repeat 60px 0px;
+	  background: url(../images/ganpati2.jpg) no-repeat 60px 0px;
 	  background-size: 13%;
 	}
 	.header_top {
@@ -2972,7 +2972,7 @@ label.radio {
 }
 @media (max-width: 320px){
 	.logo a {
-	  background: url(../images/1.png) no-repeat 36px 0px;
+	  background: url(../images/ganpati2.jpg) no-repeat 36px 0px;
 	  background-size: 13%;
 	}
 	.box_1 {
@@ -3278,7 +3278,7 @@ label.radio {
 	.logo a {
 		height: 37px;
 		font-size: 1.3em;
-		background: url(../images/1.png) no-repeat 47px 2px;
+		background: url(../images/ganpati2.jpg) no-repeat 47px 2px;
 		background-size: 11%;
 	}
 }
